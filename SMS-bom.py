@@ -162,7 +162,7 @@ def getNumber():
 #Main    
 def main():
     number = getNumber()
-    number = number[-100:]
+    number = number[-10:]
     main.number = number
     
     amount = input("    \033[92m[\033[37m*\033[92m] \033[37mEnter Amount (\033[92mDefault: 10\033[37m):> \033[37m")
@@ -186,8 +186,8 @@ def main():
     banner()
     sent = 0
     
-    items = RUNNABLE_ITEMS
-    finished = False
+
+
     
     # Running through all apis using Global Variables
     allFuncs = globals()
@@ -215,7 +215,7 @@ def main():
 if (__name__ == "__main__"):
     checkPy()
     logo()
-    main()
+
     
 
 
