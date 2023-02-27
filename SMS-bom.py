@@ -216,6 +216,7 @@ def main():
 if (__name__ == "__main__"):
     checkPy()
     logo()
+    update()
     main()
     
 
