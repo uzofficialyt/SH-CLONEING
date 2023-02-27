@@ -186,7 +186,7 @@ def main():
     banner()
     sent = 0
     
-
+    items = RUNNABLE_ITEMS
     finished = False
 
     
