@@ -93,8 +93,8 @@ def update():
 def logo():
     os.system("clear")
     print("\033[94m┌────────────────────────────────────────┐".center(columns+5))
-    print("\033[94m\033[92m█▀ █░█ ▄▀█ █▀▄ █░█ █ █▄░█\033[94m".center(columns+15))
-    print("\033[94m\033[92m▄█ █▀█ █▀█ █▄▀ █▀█ █ █░▀█\033[94m".center(columns+15))
+    print("\033[94m  \033[92m█▀ █░█ ▄▀█ █▀▄ █░█ █ █▄░█\033[94m".center(columns+15))
+    print("\033[94m  \033[92m▄█ █▀█ █▀█ █▄▀ █▀█ █ █░▀█\033[94m".center(columns+15))
     print("\033[94m                                                ".center(columns+15))
     print("\033[94m    \033[92m  █░█ ▄▀█ █▀▀ █▄▀ █▀\033[94m   ".center(columns+15))
     print("\033[94m  \033[92m    █▀█ █▀█ █▄▄ █░█ ▄█\033[94m   ".center(columns+15))
