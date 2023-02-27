@@ -215,7 +215,7 @@ def main():
 # Start Ruuning Tool
 if (__name__ == "__main__"):
     checkPy()
-    from more.data import *
+    update()
     logo()
     update()
     main()
