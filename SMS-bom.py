@@ -100,9 +100,9 @@ def logo():
     print("\033[94m  \033[92m    █▀█ █▀█ █▄▄ █░█ ▄█\033[94m   ".center(columns+15))
     print("\033[94m                              \033[94m          ".center(columns+9))
     print("\033[94m \033[95mAuthor : SHADHIN-HR Inc.       \033[94m".center(columns+15))
-    print(" \033[95mTool           : Unlimited SMS Bomber          \033[94m".center(columns+9))
-    print(" \033[95mGitHub           : https://github.com/Mdshadhinali \033[94m".center(columns+9))
-    print(" \033[95mCoder  : HunterSl4d3      \033[37mV4.1 \033[94m".center(columns+15))
+    print(" \033[95m          Tool : Unlimited SMS Bomber          \033[94m".center(columns+9))
+    print(" \033[95m          GitHub : https://github.com/Mdshadhinali \033[94m".center(columns+9))
+    print(" \033[95m Coder : HunterSl4d3      \033[37mV4.1 \033[94m".center(columns+15))
     print("\033[94m└────────────────────────────────────────┘".center(columns+5))
 
 
