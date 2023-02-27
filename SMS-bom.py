@@ -186,7 +186,7 @@ def main():
     banner()
     sent = 0
     
-    items = RUNNABLE_ITEMS
+
     finished = False
 
     
@@ -216,7 +216,7 @@ def main():
 if (__name__ == "__main__"):
     checkPy()
     logo()
-
+    main()
     
 
 
