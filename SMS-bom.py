@@ -135,7 +135,7 @@ def check(sent):
         psb("\n\n\033[92m    [\033[37m*\033[92m] Bombing Finished!")
         psb("\033[92m    [\033[37m*\033[92m] Amount : \033[37m" + str(amount))
         psb("\033[92m    [\033[37m*\033[92m] Target : \033[37m0" + main.number)
-        psb("\033[92m    [\033[37m*\033[92m] From   : \033[37mToxicBomber\n")
+
         time.sleep(0.6)
         print("\033[92m[\033[93m★\033[92m] Thanks For Using Our Tool \033[92m[\033[93m★\033[92m]".center(columns + 30))
         print("\033[37m")
