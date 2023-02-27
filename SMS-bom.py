@@ -135,7 +135,7 @@ def check(sent):
         psb("\n\n\033[92m    [\033[37m*\033[92m] Bombing Finished!")
         psb("\033[92m    [\033[37m*\033[92m] Amount : \033[37m" + str(amount))
         psb("\033[92m    [\033[37m*\033[92m] Target : \033[37m0" + main.number)
-
+        psb("\033[92m    [\033[37m*\033[92m] From   : \033[37mSMS-bom\n")
         time.sleep(0.6)
         print("\033[92m[\033[93m★\033[92m] Thanks For Using Our Tool \033[92m[\033[93m★\033[92m]".center(columns + 30))
         print("\033[37m")
@@ -162,7 +162,7 @@ def getNumber():
 #Main    
 def main():
     number = getNumber()
-    number = number[-10:]
+    number = number[-100:]
     main.number = number
     
     amount = input("    \033[92m[\033[37m*\033[92m] \033[37mEnter Amount (\033[92mDefault: 10\033[37m):> \033[37m")
@@ -211,6 +211,6 @@ def main():
 if (__name__ == "__main__"):
     checkPy()
 
-    logo()
+
     update()
     main()
