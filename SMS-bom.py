@@ -89,7 +89,7 @@ def update():
             showAuthorMsg(newMsg)
 
 
-#Logo
+#Logo= f™
 def logo():
     os.system("clear")
     print("\033[94m┌────────────────────────────────────────┐".center(columns+5))
