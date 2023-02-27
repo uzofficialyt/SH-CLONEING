@@ -186,7 +186,7 @@ def main():
     banner()
     sent = 0
     
-
+    finished = False
 
     
     # Running through all apis using Global Variables
