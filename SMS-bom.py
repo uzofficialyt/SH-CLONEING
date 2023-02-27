@@ -206,4 +206,22 @@ def main():
         if (finished):
             break
 
+# Start Ruuning Tool
+
+if (__name__ == "__main__"):
+
+    checkPy()
+
+    update()
+
+    main()
+
+
+
+
+
+
+
+
+
 
