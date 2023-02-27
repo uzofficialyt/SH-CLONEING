@@ -217,7 +217,7 @@ if (__name__ == "__main__"):
     checkPy()
     update()
     logo()
-    update()
+
     main()
     
 
