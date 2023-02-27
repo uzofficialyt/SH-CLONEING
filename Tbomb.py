@@ -1,10 +1,17 @@
 #########################################
-# ToxicBomber
+
+# S-HR
+
 # A Bangladeshi SMS Bomber Tool
-# Author: ToxicNoob Inc.
-# GitHub: https://github.com/Toxic-Noob
+
+# Author: SHADHIN-HR Inc.
+
+# GitHub: https://github.com/Mdshadhinali
+
 # Version: 4.1.0
+
 #########################################
+
 
 import time
 import requests
@@ -212,5 +219,5 @@ if (__name__ == "__main__"):
     checkPy()
     from more.data import *
     logo()
-    update()
+
     main()
