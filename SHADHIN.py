@@ -114,11 +114,11 @@ class Main:
         self.loop = 0
         os.system("clear")
         print(logo)
-        print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(" [01] RANDOM  NUMBER CLONE   \033[1;32m[ULTRA]")
         print(" [02] RANDOM  EMAIL  CLONE  \033[1;32m[WORKING]")
         print(" [00] EXIT")
-        print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         Mumit =input(" [?] Choose : ")
         os.system('xdg-open https://www.facebook.com/groups/178229628275057/?ref=share')
         if Mumit in ["1", "01"]:
@@ -150,12 +150,12 @@ def num():
         os.system('clear')
         print(logo)
         tl = str(len(user))
-        print("    \033[1;32m ┌────────────────────────────")
+        print("    \033[1;32m ┌───────────────────────────────")
         print('     \033[1;95m│[+] Total ids:\033[1;92m '+tl)            
         print('     \033[1;33m│[+] Process has been started')              
         print('     \033[1;34m│[+] Wait for ids ')                          
         print('     \033[1;91m│[+] Use flight mode for speed up ')          
-        print("    \033[1;32m └────────────────────────────")
+        print("    \033[1;32m └───────────────────────────────")
         for guru in user:
             uid = kode+kodex+kod+guru
             pwx = [kode+kodex+kod+guru,kod+guru,kodex+guru,kode+kodex+kod,]
