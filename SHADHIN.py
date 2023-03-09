@@ -60,7 +60,7 @@ try:
 except Exception as e:
  print('')
 prox=open('.prox.txt','r').read().splitlines()
-for xd in range(1000000):
+for xd in range(100000):
     aa='Mozilla/5.0 (Linux; U; Android'
     b=random.choice(['6','7','8','9','10','11','12'])
     c=' en-us; GT-'
@@ -115,12 +115,12 @@ class Main:
         os.system("clear")
         print(logo)
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-        print(" [01] RANDOM  NUMBER CLONE \033[1;34m[ULTRA WORKING && FIRE]")
-        print(" [02] RANDOM EMAIL CLONE  \033[1;35m[WORKING && FIRE] ")
+        print(" [01] RANDOM  NUMBER CLONE \033[1;34m[ULTRA]")
+        print(" [02] RANDOM EMAIL CLONE  \033[1;35m[WORKING] ")
         print(" [00] Exit")
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         Mumit =input(" [?] Choose : ")
-        os.system('xdg-open fb://group/1885398221816745?ref=share&mibextid=NSMWBT')
+        os.system('xdg-open https://www.facebook.com/groups/178229628275057/?ref=share')
         if Mumit in ["1", "01"]:
             num()
         if Mumit in ["2","02"]:
