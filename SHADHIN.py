@@ -99,11 +99,11 @@ logo = ("""
     \033[1;32m ___/ / __  / ___ |/ /_/ / __  // // /|  /  
     \033[1;32m/____/_/ /_/_/  |_/_____/_/ /_/___/_/ |_/   
      \033[1;34m┌───────────────────────────────────────┐
-     \033[1;32m│[✓] CREATOR   >[MD SHADHIN]            \033[1;32m│
-     \033[1;32m│[✓] FACEBOOK  > Md shadhin             \033[1;32m│
-     \033[1;32m│[✓] GITHUB    > Mdshadhinali           \033[1;32m│
-     \033[1;32m│[✓] WHATSAPP  > +8801318731355         \033[1;32m│
-     \033[1;32m│[✓] VERSION   > 0.5                    \033[1;32m│
+     \033[1;32m│[✓] CREATOR   >[MD SHADHIN]            \033[1;34m│
+     \033[1;32m│[✓] FACEBOOK  > Md shadhin             \033[1;34m│
+     \033[1;32m│[✓] GITHUB    > Mdshadhinali           \033[1;34m│
+     \033[1;32m│[✓] WHATSAPP  > +8801318731355         \033[1;34m│
+     \033[1;32m│[✓] VERSION   > 0.5                    \033[1;34m│
      \033[1;34m└───────────────────────────────────────┘""")
 
 class Main:
@@ -115,7 +115,7 @@ class Main:
         os.system("clear")
         print(logo)
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-        print(" [01] RANDOM  NUMBER CLONE   \033[1;34m[ULTRA]")
+        print(" [01] RANDOM  NUMBER CLONE   \033[1;32m[ULTRA]")
         print(" [02] RANDOM  EMAIL  CLONE  \033[1;32m[WORKING]")
         print(" [00] EXIT")
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
