@@ -78,9 +78,9 @@ for xd in range(100000):
 os.system('xdg-open https://github.com/Mdshadhinali')
 
 import getpass
-clear
+
 attemps = 0
-print(logo)
+
 while attemps < 12345677901:
     username = input('Enter username: ')
     password = input('Enter password: ')
