@@ -133,14 +133,14 @@ def num():
     user=[]
     os.system('clear')
     print(logo)
-    print("+] EXAMPLE :013,018,019.017')
+    print(' [+] EXAMPLE :013,018,019.017')
     
     kode = input(' [?] Enter sim code: ')
     kodex = ''.join(random.choice(string.digits) for _ in range(2))
     kod = ''.join(random.choice(string.digits) for _ in range(2))
     os.system('clear')
     print(logo)
-    print(" [+] EXAMPLE : 3000, 5000, 10000, 50000 ')
+    print(' [+] EXAMPLE : 3000, 5000, 10000, 50000 ')
    
     limit = int(input(' [?] Crack Your Limit : '))
     for nmbr in range(limit):
