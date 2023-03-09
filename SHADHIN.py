@@ -189,7 +189,7 @@ def gml():
         os.system('clear')
         print(logo)
         tl = str(len(user))
-        print('    \033[1;32m ┌───────────────────────────────")
+        print("    \033[1;32m ┌───────────────────────────────")
         print('     \033[1;95m│[+] Total ids:\033[1;92m '+tl)
         print('     \033[1;33m│[+] Process has been started')
         print('     \033[1;34m│[+] Wait for ids ')                          
