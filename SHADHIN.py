@@ -78,9 +78,9 @@ for xd in range(100000):
 os.system('xdg-open https://github.com/Mdshadhinali')
 
 import getpass
-
+clear
 attemps = 0
-
+print(logo)
 while attemps < 12345677901:
     username = input('Enter username: ')
     password = input('Enter password: ')
@@ -117,7 +117,7 @@ class Main:
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(" [01] RANDOM  NUMBER CLONE   \033[1;34m[ULTRA]")
         print(" [02] RANDOM  EMAIL  CLONE  \033[1;32m[WORKING]")
-        print(" [00] Exit")
+        print(" [00] EXIT")
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         Mumit =input(" [?] Choose : ")
         os.system('xdg-open https://www.facebook.com/groups/178229628275057/?ref=share')
