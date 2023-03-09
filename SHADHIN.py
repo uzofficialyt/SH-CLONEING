@@ -133,7 +133,7 @@ def num():
     user=[]
     os.system('clear')
     print(logo)
-    print(' [+] EXAMPLE : 017, 018, 019, 016, 013, 014 ')
+    print(' [+] EXAMPLE :013,018,019.017')
     
     kode = input(' [?] Enter sim code: ')
     kodex = ''.join(random.choice(string.digits) for _ in range(2))
