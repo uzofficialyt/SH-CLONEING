@@ -116,7 +116,7 @@ class Main:
         print(logo)
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(" [01] RANDOM  NUMBER CLONE   \033[1;34m[ULTRA]")
-        print(" [02] RANDOM  EMAIL  CLONE  \033[1;34m[WORKING]")
+        print(" [02] RANDOM  EMAIL  CLONE  \033[1;32m[WORKING]")
         print(" [00] Exit")
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         Mumit =input(" [?] Choose : ")
