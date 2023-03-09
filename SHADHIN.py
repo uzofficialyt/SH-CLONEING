@@ -156,7 +156,7 @@ def num():
         print('     \033[1;34m│[+] Wait for ids ')                          
 
         print('     \033[1;91m│[+] Use flight mode for speed up ')          
-        print("     \033[1;91m│[×]NAMBAR-CLONING
+        print('     \033[1;91m│[×]NAMBAR-CLONING ')
         print("    \033[1;32m └──────────────────────────────────")
         for guru in user:
             uid = kode+kodex+kod+guru
@@ -198,7 +198,7 @@ def gml():
      
       
         print('     \033[1;91m│[+] Use flight mode for speed up ')
-        print('     \033[1;91m│[×]GMAIL-CLONING
+        print('     \033[1;91m│[×]GMAIL-CLONING ')
         print("    \033[1;32m └──────────────────────────────────")
         
                   
