@@ -99,10 +99,10 @@ logo = ("""
 \033[1;32m ___/ / __  / ___ |/ /_/ / __  // // /|  /  
 \033[1;32m/____/_/ /_/_/  |_/_____/_/ /_/___/_/ |_/   
 \033[1;91m--------------------------------------------
-\033[1;32m[✓] CREATOR   >  [MD SHADHIN]
+\033[1;32m[✓] CREATOR   > [MD SHADHIN]
 \033[1;32m[✓] FACEBOOK  > Md shadhin
 \033[1;32m[✓] GITHUB    > https://github.com/Mdshadhinali
-\033[1;32m[✓] WHATSAPP  > +8801324313100
+\033[1;32m[✓] WHATSAPP  > +8801318731355
 \033[1;32m[✓] VERSION   > 0.5
 \033[1;91m--------------------------------------------""")
 
@@ -115,8 +115,8 @@ class Main:
         os.system("clear")
         print(logo)
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-        print(" [01] RANDOM  NUMBER CLONE \033[1;34m[ULTRA]")
-        print(" [02] RANDOM EMAIL CLONE  \033[1;35m[WORKING] ")
+        print(" [01] RANDOM  NUMBER CLONE   \033[1;34m[ULTRA]")
+        print(" [02] RANDOM  EMAIL  CLONE  \033[1;34m[WORKING]")
         print(" [00] Exit")
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         Mumit =input(" [?] Choose : ")
