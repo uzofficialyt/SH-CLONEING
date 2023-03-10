@@ -5,7 +5,7 @@ import os
 def logo():
     
 os.system("clear")
-print('\033[94m         _______   __   __     
+print(\033[94m         _______   __   __     
 print("\033[94m       /\_____  \ /\ \ /\ \    
 print("\033[94m      \/____//'/'\ `\`\/'/'   
 print("\033[94m           //'/'  `\/ > <     
