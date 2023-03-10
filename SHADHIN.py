@@ -134,7 +134,7 @@ logo = ("""
      \033[1;34m└───────────────────────────────────────┘""")
 
 try:
-    print(logo)
+
     key1=open("/storage/emulated/0/android8.txt",'r').read()
 except IOError:
     kok=open("/storage/emulated/0/android8.txt",'w')
@@ -159,6 +159,7 @@ else:
     print("\n\t\tContact Admin ")
     os.system('xdg-open https://www.facebook.com/ERR0RS')
     exit()
+    print(logo)
 
 class Main:
     def __init__(self):
