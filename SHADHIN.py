@@ -139,13 +139,13 @@ try:
 except IOError:
     kok=open("/storage/emulated/0/android8.txt",'w')
     myid=uuid.uuid4().hex[:12]
-    f="COBRA-LINUX"
+    f="20-TK"
     key=myid+f
     kok.write(key)
     kok.close()
     print(key)
 
-a=requests.get(" https://github.com/Mdshadhinali/SH-CLONEING/blob/main/ZX.txt ").text
+a=requests.get("https://github.com/Mdshadhinali/SH-CLONEING/blob/main/ZX.txt").text
 b=str(a)
 key1=open("/storage/emulated/0/android8.txt",'r').read()
 key2=str(key1)  
