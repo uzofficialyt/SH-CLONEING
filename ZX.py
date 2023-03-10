@@ -1,6 +1,6 @@
 import os, sys
 
-os.system('xdg-open 
+os.system('xdg-open https://github.com/Mdshadhinali')
 
 try:
 
