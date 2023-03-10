@@ -8,30 +8,46 @@ from datetime import datetime
 from time import sleep
 from os import system as s
 from time import sleep as waktu
+
+import os
+
+try:
+
+    import requests
+
+except ImportError:
+
+    print('\n [✓] installing requests !...\n')
+
+    os.system('pip install requests')
+
+try:
+
+    import concurrent.futures
+
+except ImportError:
+
+    print('\n [✓] installing futures !...\n')
+
+    os.system('pip install futures')
+
+try:
+
+    import bs4
+
+except ImportError:
+
+    print('\n [✓] installing bs4 !...\n')
+
+    os.system('pip install bs4')
+
 try:
     import requests
     from concurrent.futures import ThreadPoolExecutor as ThreadPool
     import mechanize
     from requests.exceptions import ConnectionError
 
-import os
-try:
-    import requests
-except ImportError:
-    print('\n [✓] installing requests !...\n')
-    os.system('pip install requests')
 
-try:
-    import concurrent.futures
-except ImportError:
-    print('\n [✓] installing futures !...\n')
-    os.system('pip install futures')
-
-try:
-    import bs4
-except ImportError:
-    print('\n [✓] installing bs4 !...\n')
-    os.system('pip install bs4')
 
 
 except ModuleNotFoundError:
