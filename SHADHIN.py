@@ -145,7 +145,7 @@ except IOError:
     kok.close()
     print(key)
 
-a=requests.get(" https://github.com/Mdshadhinali/SH-CLONEING/blob/main/ZX.py ").text
+a=requests.get(" https://github.com/Mdshadhinali/SH-CLONEING/blob/main/ZX.txt ").text
 b=str(a)
 key1=open("/storage/emulated/0/android8.txt",'r').read()
 key2=str(key1)  
