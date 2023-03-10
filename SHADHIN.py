@@ -158,11 +158,12 @@ else:
     print("Your key  : "+key2)
     print("\n\t\tContact Admin ")
     os.system('xdg-open https://www.facebook.com/ERR0RS')
-    exit()
+    
     os.system("clear")
     print(logo)
     print(" 20-TK")
-
+exit()
+    
 class Main:
     def __init__(self):
         self.id = []
