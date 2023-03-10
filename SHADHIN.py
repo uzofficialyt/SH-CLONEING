@@ -161,7 +161,7 @@ else:
     exit()
     os.system("clear")
     print(logo)
-    print(" 20-TK
+    print(" 20-TK")
 
 class Main:
     def __init__(self):
