@@ -1,10 +1,10 @@
 import os, sys
 
-os.system('xdg-open https://chat.whatsapp.com/FvEW9ARKwOOLVTJIzd8SKH')
+os.system('xdg-open 
 
 try:
 
-    __import__("RANDOM").menu()
+    __import__("SHADHIN").menu()
 
 except Exception as e:
 
