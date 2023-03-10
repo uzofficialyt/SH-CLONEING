@@ -159,6 +159,7 @@ else:
     print("\n\t\tContact Admin ")
     os.system('xdg-open https://www.facebook.com/ERR0RS')
     exit()
+    os.system("clear")
     print(logo)
 
 class Main:
