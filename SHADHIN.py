@@ -81,17 +81,7 @@ import getpass
 
 attemps = 0
 
-while attemps < 12345677901:
-    username = input('Enter username: ')
-    password = input('Enter password: ')
 
-    if username == 'SH' and password == 'SH':
-        print('You have successfully logged in.')
-        break
-    else:
-        print('\033[1;35mINCORRECT THIS TOOLS IS FREE USER/PASS: SH')
-        attemps += 1
-        continue
 logo = ("""
     \033[1;32m   _____ __  _____    ____  __  _______   __
     \033[1;32m  / ___// / / /   |  / __ \/ / / /  _/ | / /
