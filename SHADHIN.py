@@ -157,12 +157,12 @@ else:
     print
     print("Your key  : "+key2)
     print("\n\t\tContact Admin ")
-    
+    print(logo)
     Mumit =input(" [?] Choose : ")
 	
-	if Mumit in ["y", "Y"]:
+	if Mumit in ["1", "01"]:
             yes():
-        if Mumit in ["n", "N"]:
+        if Mumit in ["2", "02"]:
 	exit():
 	
 def yes():
