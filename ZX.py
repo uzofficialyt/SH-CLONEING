@@ -1,5 +1,5 @@
 import os
 
-import SHADHIN.py
+import SH-CLONEING
 
 SHADHIN.login()
