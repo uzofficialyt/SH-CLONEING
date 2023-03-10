@@ -161,6 +161,7 @@ else:
     exit()
     os.system("clear")
     print(logo)
+    print("\033[1;32m ━━━━━━━━━━━━━━━━
 
 class Main:
     def __init__(self):
