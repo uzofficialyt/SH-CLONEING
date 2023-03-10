@@ -158,14 +158,7 @@ else:
     print("Your key  : "+key2)
     print("\n\t\tContact Admin ")
     print(logo)
-    Mumit =input(" [?] Choose : ")
-	
-	if Mumit in ["1", "01"]:
-            yes():
-        if Mumit in ["2", "02"]:
-	exit():
-	
-def yes():
+    
     os.system('xdg-open https://www.facebook.com/ERR0RS')
     
     os.system
