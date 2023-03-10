@@ -161,7 +161,7 @@ else:
     exit()
     os.system("clear")
     print(logo)
-    print('\033[1;32m ━━━━━━━━━━━━━━━━
+    print(" 20-TK
 
 class Main:
     def __init__(self):
