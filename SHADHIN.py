@@ -133,7 +133,7 @@ logo = ("""
      \033[1;32m│[✓] VERSION   > 0.5                    \033[1;34m│
      \033[1;34m└───────────────────────────────────────┘""")
 
-
+print(logo)
 try:
     key1=open("/storage/emulated/0/android8.txt",'r').read()
 except IOError:
