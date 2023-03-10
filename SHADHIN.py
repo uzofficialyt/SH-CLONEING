@@ -158,19 +158,14 @@ else:
     print("Your key  : "+key2)
     print("\n\t\tContact Admin ")
     
-    while True:
-			a = input('\n\033[1;91m[\033[1;97m?\033[1;91m]\033[1;92m Do you want to go in main menu \033[1;91m[\033[1;97my/n\033[1;91m]\033[1;92m:\033[1;97m ')
-			if a == 'y' or a == 'Y':
-				break
-			elif a == 'n' or a == 'N':
-				exit()
-			elif a == '':
-				print('\n\033[1;91m[\033[1;97m!\033[1;91m]\033[1;92m No input detected')
-				sleep(1)
-			else:
-				print('\n\033[1;91m[\033[1;97m!\033[1;91m]\033[1;92m Invalid input')
-				sleep(1)
-    
+    Mumit =input(" [?] Choose : ")
+	
+	if Mumit in ["y", "Y"]:
+            yes():
+        if Mumit in ["n", "N"]:
+	exit():
+	
+def yes():
     os.system('xdg-open https://www.facebook.com/ERR0RS')
     
     os.system
