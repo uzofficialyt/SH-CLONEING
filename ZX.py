@@ -4,7 +4,7 @@ os.system("git pull")
 
 try:
 
-    __import__("old").Main()
+    __import__("SHADHIN").Main()
 
 except Exception as e:
 
