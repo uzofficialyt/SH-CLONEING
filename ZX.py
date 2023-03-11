@@ -1,3 +1,4 @@
+import graphics
 import os, sys
 
 os.system("git pull")
