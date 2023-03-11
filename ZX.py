@@ -2,7 +2,7 @@ import os, sys
 
 try:
 
-    __import__("SHADHIN").rsbuy()
+    __import__("FILE").rsbuy()
 
 except Exception as e:
 
