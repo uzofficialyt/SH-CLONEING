@@ -14,7 +14,7 @@ try:
     import mechanize
     from requests.exceptions import ConnectionError
 
-import os
+
 try:
     import requests
 except ImportError:
