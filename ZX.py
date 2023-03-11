@@ -1,4 +1,3 @@
-
 import os, sys
 
 os.system("git pull")
@@ -10,3 +9,5 @@ try:
 except Exception as e:
 
     exit(str(e))
+
+
