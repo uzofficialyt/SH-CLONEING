@@ -1,5 +1,6 @@
-import os, sys
 "/data/python/lib/python2.7/_io.so"
+import os, sys
+
 os.system("git pull")
 
 try:
