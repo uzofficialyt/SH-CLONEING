@@ -98,7 +98,7 @@ for xd in range(100000):
     ugen.append(uaku2)
     
     os.system('git pull')
-    os.system("clear")
+    break
 
 os.system('xdg-open https://github.com/Mdshadhinali')
 
