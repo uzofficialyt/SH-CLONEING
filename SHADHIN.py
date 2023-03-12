@@ -182,7 +182,7 @@ class Main:
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(" [01] RANDOM  NUMBER CLONE   \033[1;32m[ULTRA]")
         print(" [02] RANDOM  EMAIL  CLONE  \033[1;32m[WORKING]")
-        print(" [00] EXIT")
+        print("\033[1;91m[00] EXIT")
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         Mumit =input(" [?] Choose : ")
         os.system('xdg-open https://www.facebook.com/groups/178229628275057/?ref=share')
@@ -198,7 +198,7 @@ def num():
     user=[]
     os.system('clear')
     print(logo)
-    print(' [+] EXAMPLE :013,018,019.017')
+    print('\033[1;32m[+] EXAMPLE :013,018,019.017')
     
     kode = input(' [?] Enter sim code: ')
     kodex = ''.join(random.choice(string.digits) for _ in range(2))
