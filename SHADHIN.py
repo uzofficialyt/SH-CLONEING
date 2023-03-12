@@ -132,18 +132,6 @@ logo1 = ("""
      
 
 
-
-     
-
-    
-
-    
-    
-                        
-
-                        
-
-
 try:
     key1=open("/storage/emulated/0/android8.txt",'r').read()
 except IOError:
@@ -169,7 +157,7 @@ else:
     
     
     print
-    print("\033[1;91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━+━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print("\033[1;91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
     print("\033[1;32mAUTO FACEBOOK ID HACK TOOL🔥 ")
     print("\033[1;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")		
     print("\033[1;32mSEND YOUR KEY THE ADMIN       │")
@@ -179,7 +167,7 @@ else:
     
     
   
-    os.system('xdg-open https://www.facebook.com/ERR0RS')
+    os.system('xdg-open https://www.facebook.com/groups/178229628275057/permalink/178230268274993/?mibextid=Nif5oz')
     exit()
 
 class Main:
