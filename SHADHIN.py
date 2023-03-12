@@ -185,7 +185,7 @@ class Main:
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(" [01] RANDOM  NUMBER CLONE   \033[1;32m[ULTRA]")
         print(" [02] RANDOM  EMAIL  CLONE  \033[1;32m[WORKING]")
-        print("\033[1;91m[00] EXIT")
+        print("\033[1;91m [00] EXIT")
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         Mumit =input(" [?] Choose : ")
         os.system('xdg-open https://www.facebook.com/groups/178229628275057/?ref=share')
