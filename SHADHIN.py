@@ -172,9 +172,13 @@ else:
     print("\n\t\t send your key the admin ")
    
 
-  
-    input() : 
-        input("Press Enter to continue...")
+  os.system("instagram-py --username " + usr + " --password-list .pass.txt")
+
+				input("\033[1;94mPress ENTER To Continue")
+
+				break
+
+
     
     os.system('xdg-open https://www.facebook.com/ERR0RS')
     exit()
