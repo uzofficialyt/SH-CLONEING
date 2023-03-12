@@ -2,7 +2,7 @@ import os, sys
 
 try:
 
-    __import__("FILE").rsbuy()
+    __import__(" FILE ").rsbuy()
 
 except Exception as e:
 
