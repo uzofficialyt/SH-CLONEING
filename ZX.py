@@ -1,5 +1,7 @@
 import os, sys
 
+os.system('git pull')
+
 try:
 
     __import__("SHADHIN").rsbuy()
