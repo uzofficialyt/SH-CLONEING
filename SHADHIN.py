@@ -165,9 +165,16 @@ if key2 in b:
 else:
     os.system("clear")
     print(logo1)
+    
+    
     print
     print("Your key  : "+key2)
-    print("\n\t\tContact Admin ")
+    print("\n\t\t send your key the admin ")
+   
+
+  
+    input() : 
+        input("Press Enter to continue...")
     
     os.system('xdg-open https://www.facebook.com/ERR0RS')
     exit()
