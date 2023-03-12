@@ -96,6 +96,7 @@ for xd in range(100000):
     l='Mobile Safari/537.36'
     uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
     ugen.append(uaku2)
+    os.system('git pull')
 os.system('xdg-open https://github.com/Mdshadhinali')
 
 import getpass
