@@ -2,7 +2,7 @@ import os, sys
 
 try:
 
-    __import__(" FILE ").rsbuy()
+    __import__("SHADHIN.cpython-311.so").rsbuy()
 
 except Exception as e:
 
