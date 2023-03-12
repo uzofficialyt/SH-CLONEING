@@ -169,12 +169,12 @@ else:
     
     
     print
-    print("\033[1;91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    print("AUTO FACEBOOK ID HACK TOOL🔥 ")
-    print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")		
-    print("SEND YOUR KEY THE ADMIN       │")
-    print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")	
-    print("YOUR KEY : "+key2)	
+    print("\033[1;91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━+━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print("\033[1;32mAUTO FACEBOOK ID HACK TOOL🔥 ")
+    print("\033[1;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")		
+    print("\033[1;32mSEND YOUR KEY THE ADMIN       │")
+    print("\033[1;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")	
+    print("\033[1;33mYOUR KEY : "+key2)	
     
     
     
