@@ -158,9 +158,9 @@ else:
     
     print
     print("\033[1;91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    print("\033[1;32mAUTO FACEBOOK ID HACK TOOL🔥  │")
+    print("\033[1;32mAUTO FACEBOOK ID HACK TOOL🔥  │      TOOL CREATED BY")
     print("\033[1;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")		
-    print("\033[1;32mSEND YOUR KEY THE ADMIN       │")
+    print("\033[1;32mSEND YOUR KEY THE ADMIN       │          SHADHIN")
     print("\033[1;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")	
     print("\033[1;33mYOUR KEY : "+key2)	
     
