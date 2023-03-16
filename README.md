@@ -2,10 +2,10 @@
 * Hannan AnSari
 
 ```
-rm -rf FILE
-git clone --depth=1 https://github.com/Hannan-404/FILE
-cd FILE
-python FILE.py
+rm -rf Z-force.py
+git clone https://github.com/Mdshadhinali/SH-CLONEING
+cd SH-CLONEING
+python Z-force.py
 ```
 
-* ENJOY🥵🔥
+* ENJOY👾🔥
