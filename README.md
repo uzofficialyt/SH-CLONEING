@@ -28,8 +28,8 @@
 ```
 ```
  pkg upgrade
- ```
- ```
+```
+```
  pkg install python
 ```
 ```
@@ -51,7 +51,9 @@
 ```
  pkg install git
 ```
-
+```
+termux-setup-storage
+```
 
 Note: (This Tools Are Paid, So You Need Permission Enjoy)
 
