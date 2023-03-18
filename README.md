@@ -21,9 +21,9 @@
 
 ## <b>Installation</b>
 
+
+
 ```
-
-
  pkg update
 ```
 ```
@@ -38,8 +38,8 @@
 ```
  pip install requests
 ```
-```
 
+```
  pip install mechanize
 ```
 ```
@@ -50,8 +50,8 @@
 ```
 ```
  pkg install git
-
 ```
+
 
 Note: (This Tools Are Paid, So You Need Permission Enjoy)
 
