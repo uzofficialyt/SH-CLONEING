@@ -23,35 +23,39 @@
 
 ```
 
-$ pkg update
 
-$ pkg upgrade
+ pkg update
+```
+```
+ pkg upgrade
+ ```
+ ```
+ pkg install python
+```
+```
+ pkg install python2
+```
+```
+ pip install requests
+```
+```
 
-$ pkg install python
+ pip install mechanize
+```
+```
+ pip install bs4
+```
+```
+ pip install rich
+```
+```
+ pkg install git
 
-$ pkg install python2
-
-$ pip install requests
-
-$ pip install mechanize
-
-$ pip install bs4
-
-$ pip install rich
-
-$ pkg install git
-
-$ rm -rf Luxury
-
-$ git clone https://github.com/Niki404-Cyber/Luxury
-
-$ cd Luxury
-
-$ python Luxury.py
+```
 
 Note: (This Tools Are Paid, So You Need Permission Enjoy)
 
-```
+
 
 ```
 rm -rf Z-force.py
