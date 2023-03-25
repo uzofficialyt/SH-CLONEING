@@ -65,7 +65,7 @@ Note: (This Tools Are Paid, So You Need Permission Enjoy)&nbsp;
 
 
 ```
-rm -rf Z-force.py
+rm -rf SH-CLONEING
 git clone https://github.com/Mdshadhinali/SH-CLONEING
 cd SH-CLONEING
 python Z-force.py
