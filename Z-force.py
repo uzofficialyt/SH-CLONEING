@@ -129,7 +129,7 @@ def Public():
 				
 	if pil in ['2','02']:
 		  print("coming soon :)")
-		 time.sleep(3.5)
+		
 		
 	elif pil in ['3','03']:
 		os.system("python SHADHIN.cpython-311.opt-2.pyc")
